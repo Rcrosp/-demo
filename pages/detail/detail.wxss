@@ -1,0 +1,63 @@
+@import "../Second/Second.wxss";
+/*.casts{
+    display: flex;
+    flex-direction: row;
+
+}*/
+.movie_img{
+    text-align: center;
+}
+.casts{
+    display: flex;
+    flex-direction: row;
+   
+}
+.casts-text{
+    text-align: center;
+}
+.casts-model{
+    padding-top: 10rpx;
+     width: 145rpx;
+    height: 230rpx;
+    margin-right: 20rpx;
+    margin-left: 20rpx;
+   
+}
+
+.casts image{
+    
+     width: 145rpx;
+    height: 180rpx;
+    
+  
+}
+
+
+.casts text{
+    
+    width: 145rpx;
+     color: white;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+   
+
+  
+}
+.detail{
+
+    padding-left:20px;
+    padding-right:20px;
+    color: white;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.hr{
+    height: 2px;
+    width: 100%;
+    background-color: black;
+    border-top:white solid 1px;
+    border-bottom: white solid 1px;
+    opacity: 0.2; 
+}
